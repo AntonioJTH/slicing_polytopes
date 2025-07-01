@@ -19,3 +19,8 @@ directions = [
     [1.0, 1.0, -0.9, -0.9, -0.5, 0.0],
     [Fraction(3, 500), Fraction(3, 1000), Fraction(7, 1000), Fraction(3, 500)]
 ]
+
+
+## Output
+
+For each direction, the program returns a list of values of $\nu$ (the number of vertices) corresponding to slices defined by hyperplanes orthogonal to that direction. It also accumulates all values found across all directions.
