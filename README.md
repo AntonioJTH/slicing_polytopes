@@ -1,6 +1,6 @@
 # Hypercube Slice Analysis
 
-This repository contains a Python implementation to compute all slices of a hypercube in specified directions (Directions for the Slices Q_6.ipynb). The vertices of the hypercube are restricted to have entries in {-1, 1}, representing a `d`-dimensional binary cube.
+This repository contains a Python implementation to compute all slices of a hypercube in specified directions (Directions for the Slices Q_6 and Q_7.ipynb). The vertices of the hypercube are restricted to have entries in {-1, 1}, representing a `d`-dimensional binary cube.
 
 ## Overview
 
